@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A449E429-90E6-4FF3-AC7C-64C66B48D71D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaIntermedia2/ClassB.cs">
+    <Files>
+      <File FileName="PracticaIntermedia2/Program.cs" Line="61" Column="60" />
+      <File FileName="PracticaIntermedia2/ClassA.cs" Line="1" Column="1" />
+      <File FileName="PracticaIntermedia2/ClassB.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticaIntermedia2" expanded="True">
+            <Node name="PracticaIntermedia2" expanded="True">
+              <Node name="ClassB.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PracticaIntermedia2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

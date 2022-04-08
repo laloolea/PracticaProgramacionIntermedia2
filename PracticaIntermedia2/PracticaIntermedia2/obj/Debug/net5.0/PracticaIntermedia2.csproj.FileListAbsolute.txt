@@ -1,0 +1,15 @@
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/PracticaIntermedia2.deps.json
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/PracticaIntermedia2.runtimeconfig.json
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/PracticaIntermedia2.runtimeconfig.dev.json
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/PracticaIntermedia2.dll
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/ref/PracticaIntermedia2.dll
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/bin/Debug/net5.0/PracticaIntermedia2.pdb
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.dll
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/ref/PracticaIntermedia2.dll
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.pdb
+/Users/eduardogonzalez/Documents/PracticaIntermedia2/PracticaIntermedia2/obj/Debug/net5.0/PracticaIntermedia2.genruntimeconfig.cache
